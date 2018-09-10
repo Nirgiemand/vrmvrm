@@ -13,7 +13,7 @@ Needed software in your computer to run this software:
 
 * php
 ```
-sudo apt-get install php7.0-cli
+sudo apt-get install php7.2-cli
 sudo apt-get install php-xml
 ```
 
