@@ -6,8 +6,6 @@ require_once __DIR__ . '/../vendor/autoload.php';
 
 use BookingApp\Application;
 
-$app['debug'] = true;
-
 $app = new Application();
 
 
